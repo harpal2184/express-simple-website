@@ -1,0 +1,23 @@
+# express-simple-website
+How to work in Node.JS with Express.JS
+
+First need to install node.js from the website
+  https://nodejs.org/en/
+
+npm comes with node.
+
+create a directory from command line
+  mkdir ExpressSimpleWebsite
+
+from command line go to project directory path
+
+Type: node -v (to check the version of node you are using)
+      npm -v ( to check the npm version)
+
+To create a package.json file
+
+Type : npm init( create a package.json file in your dir folder with description)
+
+You can install the node modules using the npm
+
+For Example: npm install express --save ( it will install express modules to node_modules folder of your project and also save the dependency to the package.json file)
